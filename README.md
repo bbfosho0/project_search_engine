@@ -2,7 +2,7 @@
 
 ![Goggl](https://i.ibb.co/yQdYhtq/image.png)
 
-Using React and Google Search API powered by https://rapidapi.com I've built a Google clone
+Using my knowledge of React, Full-Stack Development, and Google Search API powered by https://rapidapi.com I've built a Google clone
 
 
 
